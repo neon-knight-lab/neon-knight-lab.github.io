@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OAuth</title>
+</head>
+<body>
+    <h1>Login realizado</h1>
+
+    <script>
+        const hash = window.location.hash;
+        console.log("TOKEN:", hash);
+        document.body.innerHTML += "<p>" + hash + "</p>";
+    </script>
+</body>
+</html>
