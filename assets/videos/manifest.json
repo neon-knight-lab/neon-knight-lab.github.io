@@ -7,6 +7,13 @@
       "source_file": "/mnt/nvme/imagemefeito/projetos/neon_knight/feel_alive_tonight/shorts/feel-alive-tonight_reel_blur.mp4",
       "project_json": "/mnt/nvme/imagemefeito/projetos/neon_knight/feel_alive_tonight/projeto.json",
       "uploaded_at": "2026-04-08 21:01:06"
+    },
+    {
+      "relative_path": "assets/videos/2026-04/neon-knight_inside-the-silence_reel.mp4",
+      "public_url": "https://neon-knight-lab.github.io/assets/videos/2026-04/neon-knight_inside-the-silence_reel.mp4",
+      "source_file": "/mnt/nvme/imagemefeito/projetos/neon_knight/inside_the_silence/shorts/inside-the-silence_story_blur.mp4",
+      "project_json": "/mnt/nvme/imagemefeito/projetos/neon_knight/inside_the_silence/projeto.json",
+      "uploaded_at": "2026-04-09 10:07:24"
     }
   ]
 }
